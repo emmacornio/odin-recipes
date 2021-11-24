@@ -1,0 +1,30 @@
+#header-img, .img-recipe{width: 300px;height: auto;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+ 
+}
+#header-img{  opacity: 70%;}
+.body{background-color:#025391ad ;}
+.title{text-align: center;
+    font-size: 30px;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+}
+#index-list{text-align: center;
+    color: black;
+    background-color: white;
+    background-position: center;
+    opacity: 30%;
+    font-size: 25px;
+    font-weight: bold; 
+    font-family: 'Courier New', Courier, monospace;   
+}
+.recipe-body, .link{text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.link{font-size: 15px;
+    text-align: left;
+    opacity: 50%;
+}
