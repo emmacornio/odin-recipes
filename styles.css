@@ -4,6 +4,7 @@
    display: block;
  
 }
+.img-recipe{border-radius: 50%;}
 #header-img{  opacity: 70%;}
 .body{background-color:#025391ad ;}
 .title{text-align: center;
@@ -20,10 +21,13 @@
     font-weight: bold; 
     font-family: 'Courier New', Courier, monospace;   
 }
-.recipe-body, .link{text-align: center;
+.recipe-body, .link{text-align: left;
     font-family: 'Courier New', Courier, monospace;
     color: white;
+    margin-left: 25%;
+    margin-right: 25%;
 }
+h2{text-align: center;}
 .link{font-size: 15px;
     text-align: left;
     opacity: 50%;
